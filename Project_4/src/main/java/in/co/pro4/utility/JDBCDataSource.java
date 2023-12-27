@@ -14,7 +14,7 @@ import in.co.pro4.exception.ApplicationException;
  * @author Shradha Pushpad
  *
  */
-public class JDBCDataSource {
+public final class JDBCDataSource {
 	/**
 	 * JDBC Database connection pool ( DCP )
 	 */
